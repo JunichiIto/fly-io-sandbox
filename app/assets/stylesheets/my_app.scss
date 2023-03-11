@@ -1,0 +1,30 @@
+.my-image {
+  background-image: url('bg.png');
+  display: inline-block;
+  padding: 50px;
+  img {
+    border: 1px solid #ccc;
+  }
+}
+
+.menu {
+  li {
+    font-family: sans-serif;
+    font-size: larger;
+    a {
+      font-family: serif;
+      font-size: initial;
+      text-decoration: none;
+    }
+  }
+}
+
+.main {
+  border-top: 1px solid #ccc;
+}
+
+.note {
+  margin: 20px 0;
+  font-family: sans-serif;
+  font-size: smaller;
+}
